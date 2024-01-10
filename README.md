@@ -12,7 +12,6 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 
 *   🌍  I'm based in Italy, but I'm a citizen of the world and I love travel and Discover.
 *   🖥️  See my portfolio at [this link](http://vip-pana.github.io/)
-*   ✉️  You can contact me at [panacciullivincenzo@gmail.com](mailto:panacciullivincenzo@gmail.com) or on in my [LinkedIn page]([https://](https://www.linkedin.com/in/vincenzopanacciulli/))  
 *   🧠  I'm learning C#, Cloud and Backend stuff, but I'm super curious of any technologies. 
 *   🤝  I'm open to collaborating on any interesting project, if you have any suggest, please write me!
 
@@ -27,5 +26,8 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 
 [![C#, Dotnet Typescript, React, Node.js, Angular, Express, GraphQl, PostgreSQL, MongoDb](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nodejs,angular,express,graphql,postgres,mongodb)](https://skillicons.dev)
 
+## 📲 Contacts:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vincenzopanacciulli/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:panacciullivincenzo@gmail.com?subject=Hello%20Vincenzo,%20From%20Github)
 
 </div>
