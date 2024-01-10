@@ -1,3 +1,4 @@
+<div align="center">
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincenzo Panacciulli
 ============================================================================================================================================
 
@@ -12,7 +13,6 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 *   🧠  I'm learning C#, Cloud and Backend stuff, but I'm super curious of any technologies. 
 *   🤝  I'm open to collaborating on any interesting project, if you have any suggest, please write me!
 
-    <div align="center">
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
