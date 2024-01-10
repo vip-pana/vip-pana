@@ -8,12 +8,12 @@
 --------------------
 </div>
 
-I started programming in 2021 with the basics of the Front End, then I attended a two‑year training course and realized that I deeply loved the Back End side. Fast forward to now I'm studying for contribute to some cool open source projects, take cloud certifications and for my career development.
+I started programming in 2021 with the basics of the Front End, then I attended a two‑year training course and realized that I deeply loved the Back End side. Fast forward to now, I'm studying to contribute to some cool open source projects, take cloud certifications, and for my career development.
 
 *   🌍  I'm based in Italy, but I'm a citizen of the world and I love travel and Discover.
 *   🖥️  See my portfolio at [this link](http://vip-pana.github.io/).
-*   🧠  I'm learning C#, Cloud and Backend stuff, but I'm super curious of any technologies. 
-*   🤝  I'm open to collaborating on any interesting project, if you have any suggest, please write me!
+*   🧠  I'm learning C#, Cloud, and Backend stuff, but I'm super curious about any technologies.
+*   🤝  I'm open to collaborating on any interesting project if you have any suggestions, please write me!
 
 <div align="center">
 
