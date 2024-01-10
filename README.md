@@ -4,7 +4,7 @@
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincenzo Panacciulli
 ============================================================================================================================================
 
- ~~ Full Stack Developer ~~ A Backend Dev with some Front end skills 😁
+ ~~Full Stack Developer~~ A Backend Dev with some Front end skills 😁
 --------------------
 
 I started programming in 2021 with the basics of the Front End, then I attended a two‑year training course and realized that I deeply loved the Back End side. Fast forward to now I'm studying for contribute to some cool open source projects, take cloud certifications and for my career development.
