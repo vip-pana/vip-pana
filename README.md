@@ -6,6 +6,7 @@
 
  ~~Full Stack Developer~~ A Backend Dev with some Frontend skills 😁
 --------------------
+</div>
 
 I started programming in 2021 with the basics of the Front End, then I attended a two‑year training course and realized that I deeply loved the Back End side. Fast forward to now I'm studying for contribute to some cool open source projects, take cloud certifications and for my career development.
 
@@ -15,6 +16,9 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 *   🧠  I'm learning C#, Cloud and Backend stuff, but I'm super curious of any technologies. 
 *   🤝  I'm open to collaborating on any interesting project, if you have any suggest, please write me!
 
+<div align="center">
+
+
 ## 💡 A Quote:
 
 [![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -23,5 +27,5 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 
 [![C#, Dotnet Typescript, React, Node.js, Angular, Express, GraphQl, PostgreSQL, MongoDb](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nodejs,angular,express,graphql,postgres,mongodb)](https://skillicons.dev)
 
-</div>
 
+</div>
