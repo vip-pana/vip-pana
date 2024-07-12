@@ -24,7 +24,7 @@ I started programming in 2021 with the basics of the Front End, then I attended 
 
 ## 💻 My Tech Stack:
 
-[![C#, Dotnet Typescript, React, Node.js, Angular, Express, GraphQl, PostgreSQL, MongoDb](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nodejs,angular,express,graphql,postgres,mongodb)](https://skillicons.dev)
+[![C#, Dotnet, Typescript, React, Node.js, Angular, Express, GraphQl, PostgreSQL, MongoDb](https://skillicons.dev/icons?i=cs,dotnet,ts,react,nodejs,angular,express,graphql,postgres,mongodb)](https://skillicons.dev)
 
 ## 📲 My Contacts:
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vincenzopanacciulli/) &nbsp;
