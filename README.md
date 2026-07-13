@@ -1,7 +1,3 @@
-<div align="center">
-
-</div>
-
 ```text
 > pana@github:~$ whoami
 
@@ -33,28 +29,32 @@ JYzznxJQC}{|+,;;l?jzzzzr)-I,,,^:i<>!!>~~>>!)
 
 > pana@github:~$ cat about.md
 
-I started coding in **2021** with front-end basics, then fell hard for the
-**back-end** side. Now I'm a **Full Stack Engineer** at **WeRoad**, studying AI, and grow my career.
+I started coding in 2021 with front-end basics, then fell hard for the
+back-end side. Now I'm a Full Stack Engineer at WeRoad, studying AI while
+growing my career.
 
-🌍 Based in Milan, but working remotely — 🤝 open to collaborating on interesting projects — write me!
+Based in Milan, working remotely — open to collaborating on interesting
+projects, so feel free to write me!
 ```
 
 
 ```console
-vincenzo@github:~$ git log --stat
+pana@github:~$ git log --stat
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vip-pana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vip-pana&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="top langs" />
+<img src="https://streak-stats.demolab.com/?user=vip-pana&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9" alt="streak" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vip-pana&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9" alt="streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vip-pana&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=39D353&hide_border=true" alt="activity graph" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vip-pana&theme=github_dark" alt="repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vip-pana&theme=github_dark" alt="most commit language" />
 
 </div>
 
 ```console
-vincenzo@github:~$ ./snake.sh
+pana@github:~$ ./snake.sh
 ```
 
 <div align="center">
@@ -68,13 +68,13 @@ vincenzo@github:~$ ./snake.sh
 </div>
 
 ```console
-vincenzo@github:~$ curl ./contact
+pana@github:~$ curl ./contact
 ```
 
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vincenzopanacciulli/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:panacciullivincenzo@gmail.com?subject=Hello%20Vincenzo,%20From%20Github) &nbsp;
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:v.panacciulli@pm.me?subject=Hello%20Vincenzo%20from%20GitHub) &nbsp;
 [![Portfolio](https://skillicons.dev/icons?i=github)](https://vip-pana.github.io)
 
 <br>
