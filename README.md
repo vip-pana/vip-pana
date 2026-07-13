@@ -19,28 +19,19 @@
 ╚Ü '∩      x0└   ╩║╬╣▒]░░▒▒▒▒░Ü░░░=╙╢▒║▓▓╬╢╠╬╠╠╠╠╠╬╠╠╠╠╠Ü╚░      Mail:      v.panacciulli@pm.me
 ░H`__   ╓#╫       ╙╢╠╣╣▒▒▒▒╚░Ü░Ü¼╠_ ÷^╚▓╬╬╬╬╬╣╣╬╫╫╝╫╫╝R╩Ü░░      Portfolio: vip-pana.github.io
 ▄╗⌐*=,<╚╩ ▀¬--``   ╙║╣╣╣╣╣╣╣▓▒╣╬╬╠H   _²╙╙╠╬╠╠╠╠╠╠╠╠╠╠▒╠Ü░H
-░░░░O-`        `-   ╙╣╣╣╣╣╣╣╣╣╣╣╣╬▒_ |░_ ┐╚▒▒╠╠╠▒▒▒▒▒▒▒▒ÜûÜ
-▄▄:"``               ╚╬╣╣╣╣╣╣╣╣╣╬╬╠░ └\__  ╠╬╬╬╠║▓█▓██▓▓¢▓▓
-█:_                   ╚╣╣╣╣╣╣╣╬╣╣╢╠▒_` f+≈_╝███▒███████▓║██
-▌``                    ╣╬╣╣╣╣╣╣╣╣╢╬▒░┌`_,╖/ ██▀¼╬╠╬╠╢╣╣▒░║Ü░
-░``                    '╣╣╬╣╣╣╣╣╬╬╬╠Ü└  [░VY╫▒▄╣▓▓▓▓╣██████▄
-»                       ╙╣╣╣╣╣╣╬╣╬╠╠▒∩   _!-"███████████████
+░░░░O-`        `-   ╙╣╣╣╣╣╣╣╣╣╣╣╣╬▒_ |░_ ┐╚▒▒╠╠╠▒▒▒▒▒▒▒▒ÜûÜ    Bio
+▄▄:"``               ╚╬╣╣╣╣╣╣╣╣╣╬╬╠░ └\__  ╠╬╬╬╠║▓█▓██▓▓¢▓▓      Started coding in 2021 with
+█:_                   ╚╣╣╣╣╣╣╣╬╣╣╢╠▒_` f+≈_╝███▒███████▓║██      front-end basics, then fell hard
+▌``                    ╣╬╣╣╣╣╣╣╣╣╢╬▒░┌`_,╖/ ██▀¼╬╠╬╠╢╣╣▒░║Ü░     for the back-end side. Now a Full
+░``                    '╣╣╬╣╣╣╣╣╬╬╬╠Ü└  [░VY╫▒▄╣▓▓▓▓╣██████▄     Stack Engineer at WeRoad, studying
+»                       ╙╣╣╣╣╣╣╬╣╬╠╠▒∩   _!-"███████████████     AI while growing my career.
                          ║╣╣╣╣╣╬╣╬╠╠▒░   ``░ ███████████████
-                          ╣╣╣╣╣╠╢╬╬╬╠░    _M '██████████████
-                          ║╣╬╣╬╠╣╣╬╬╬Ü_   ²  Φ██████████████
-                          ⁿ╠║╢╠╠╣╣╣╣╬▒__    ;▄▓█████████████
+                          ╣╣╣╣╣╠╢╬╬╬╠░    _M '██████████████     Based in Milan, working remotely.
+                          ║╣╬╣╬╠╣╣╬╬╬Ü_   ²  Φ██████████████     Open to collaborating on cool
+                          ⁿ╠║╢╠╠╣╣╣╣╬▒__    ;▄▓█████████████     projects, so feel free to write me!
                            ╠╬╠╠╠╣╣╣╣╬╬_`    4██▄████████████
                            [╚╠╠╠╢╣╣╣╬╠  _╓▄█████████████████
 
-
-> pana@github:~$ cat about.md
-
-I started coding in 2021 with front-end basics, then fell hard for the
-back-end side. Now I'm a Full Stack Engineer at WeRoad, studying AI while
-growing my career.
-
-Based in Milan, working remotely — open to collaborating on interesting
-projects, so feel free to write me!
 ```
 
 
