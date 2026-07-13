@@ -45,9 +45,6 @@ pana@github:~$ git log --stat
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vip-pana&bg_color=0D1117&color=C9D1D9&line=39D353&point=39D353&area=true&area_color=39D353&hide_border=true" alt="activity graph" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vip-pana&theme=github_dark" alt="repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vip-pana&theme=github_dark" alt="most commit language" />
-
 </div>
 <br/>
 
