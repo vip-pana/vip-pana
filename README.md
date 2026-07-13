@@ -1,14 +1,10 @@
 <div align="center">
 
-# `> pana@github:~$ whoami`
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Backend+Dev+%40+WeRoad;C%23+%C2%B7+.NET+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+Node.js;TypeScript+%C2%B7+React+%C2%B7+Angular;Learning+Cloud+%26+contributing+to+OSS" alt="typing" />
-</a>
-
 </div>
 
 ```text
+> pana@github:~$ whoami
+
 )>?_~>i~l:"`' ',:~{)\t\{?` .^I+)|f/)}[+I`       pana@github
 ~<(1}}}r}?-_]}rcJ0hB&&$dwx+)uCmpwwphwZwwJ|+l    -----------------------------------------
 +l}{)1[\+I, +rX0qk8%@@%W##M$BW%Ma8ao*pQLQmOz    OS:        Italy (citizen of the world)
