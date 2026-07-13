@@ -29,36 +29,16 @@ zC*@@@k:~}fZoJ?^,i?)()?>I,,^^`ltO|_llI:;i_/8    GitHub Stats
 UvvC&@@rl+~+(tCaU??]|\1)}?]}{|_<_:::;:;!~+u%
 LUcv0&@M\-{+li;I~|uvrnrj/([<:'^!iiiiI;!<>+zb
 JYzznxJQC}{|+,;;l?jzzzzr)-I,,,^:i<>!!>~~>>!)
-```
 
-```console
-vincenzo@github:~$ cat about.md
-```
+
+> pana@github:~$ cat about.md
 
 I started coding in **2021** with front-end basics, then fell hard for the
-**back-end** side. Now I'm a **Backend Dev with some Frontend skills** at
-**WeRoad**, studying to contribute to open source, take cloud certifications,
-and grow my career.
+**back-end** side. Now I'm a **Full Stack Engineer** at **WeRoad**, studying AI, and grow my career.
 
-> 🌍 Based in Italy — 🤝 open to collaborating on interesting projects — write me!
-
-```console
-vincenzo@github:~$ ls ./stack
+🌍 Based in Milan, but working remotely — 🤝 open to collaborating on interesting projects — write me!
 ```
 
-![C#](https://img.shields.io/badge/-C%23-1F1F1F?style=flat-square&logo=csharp&logoColor=39D353)
-![.NET](https://img.shields.io/badge/-.NET-1F1F1F?style=flat-square&logo=dotnet&logoColor=39D353)
-![PHP](https://img.shields.io/badge/-PHP-1F1F1F?style=flat-square&logo=php&logoColor=39D353)
-![Laravel](https://img.shields.io/badge/-Laravel-1F1F1F?style=flat-square&logo=laravel&logoColor=39D353)
-![Node.js](https://img.shields.io/badge/-Node.js-1F1F1F?style=flat-square&logo=nodedotjs&logoColor=39D353)
-<br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-1F1F1F?style=flat-square&logo=typescript&logoColor=39D353)
-![React](https://img.shields.io/badge/-React-1F1F1F?style=flat-square&logo=react&logoColor=39D353)
-![Angular](https://img.shields.io/badge/-Angular-1F1F1F?style=flat-square&logo=angular&logoColor=39D353)
-<br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1F1F1F?style=flat-square&logo=postgresql&logoColor=39D353)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1F1F1F?style=flat-square&logo=mongodb&logoColor=39D353)
-![GraphQL](https://img.shields.io/badge/-GraphQL-1F1F1F?style=flat-square&logo=graphql&logoColor=39D353)
 
 ```console
 vincenzo@github:~$ git log --stat
