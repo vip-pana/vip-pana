@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> vincenzo@github:~$ whoami`
+# `> pana@github:~$ whoami`
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=520&lines=Backend+Dev+%40+WeRoad;C%23+%C2%B7+.NET+%C2%B7+PHP+%C2%B7+Laravel+%C2%B7+Node.js;TypeScript+%C2%B7+React+%C2%B7+Angular;Learning+Cloud+%26+contributing+to+OSS" alt="typing" />
@@ -9,24 +9,24 @@
 </div>
 
 ```text
-)>?_~>i~l:"`' ',:~{)\t\{?` .^I+)|f/)}[+I`       vincenzo@github
+)>?_~>i~l:"`' ',:~{)\t\{?` .^I+)|f/)}[+I`       pana@github
 ~<(1}}}r}?-_]}rcJ0hB&&$dwx+)uCmpwwphwZwwJ|+l    -----------------------------------------
 +l}{)1[\+I, +rX0qk8%@@%W##M$BW%Ma8ao*pQLQmOz    OS:        Italy (citizen of the world)
-~:I!l:l~I",!Xbokhk$B@@%W$hha&W@@MB#@@@%&bdqw    Role:      Backend Dev  (+ some Frontend)
+~:I!l:l~I",!Xbokhk$B@@%W$hha&W@@MB#@@@%&bdqw    Role:      FullStack Engineer
 1+><?!{i;!fpB%@#Mpd&oqY/_I,>~-j0a8%%@@@@#$$M    Company:   WeRoad
-abvncnYQLpW&@#%%kqadc}iI^` "  `)k@%M%@#@@#8W    Editor:    VSCode
-JYczQwO$@@#@#MBMdbOr}~I,`' .'. "}a@@%Mo$@@8%    Since:     2021
-xYCmwd*@@@&8#&dBLbX+ii;^'..  ..'<xk$@%%%%@@@    Learning:  C#, Cloud, Backend
+abvncnYQLpW&@#%%kqadc}iI^` "  `)k@%M%@#@@#8W    Since:     2021 
+JYczQwO$@@#@#MBMdbOr}~I,`' .'. "}a@@%Mo$@@8%    Learning:  AI, System Design
+xYCmwd*@@@&8#&dBLbX+ii;^'..  ..'<xk$@%%%%@@@
 0Zh%M#@@@%d8M$kCzqO?i,...       +ju0M%aM%%%@
 $08@@@@@@@W8&wn/vqC}I^"`'     .`i\ck%8dd*@@@    Languages
-BwB%@@@@@@8WWmLmhMz(<I:;_1fUwpdbk*o#%dqkMW@@      Backend:   C#, .NET, PHP, Laravel, Node.js
-fB@@@@@@@@$$#@%@@%av+;,<fUqhohOUO*8oW*baM*W@      Frontend:  TypeScript, React, Angular
+BwB%@@@@@@8WWmLmhMz(<I:;_1fUwpdbk*o#%dqkMW@@      Backend:   PHP, NodeJS, C#
+fB@@@@@@@@$$#@%@@%av+;,<fUqhohOUO*8oW*baM*W@      Frontend:  TypeScript, React, Vue
 {kW%%@@@@@Ma8#ho&#&O!. `1UOZqLmbh*$*obmb**W@      Data:      PostgreSQL, MongoDB, GraphQL
 8##@%@@@W#@@#WM$*&aY'  ;}[{zOJwh*8W%BkkoooBW
 @@@@@@@WZpqqqqpZL0/`  .^,I>+{fxnuw8hXxxjuCh&    Contact
 @@M@@@@O)\|||{?+~;     .`:^  ^;ll_pO}<-|tzo%%      LinkedIn:  in/vincenzopanacciulli
-@hd@@@%?^`'.   ;"^",^`,:,"II;^  .^!rQUzzX0oo%      Gmail:     panacciullivincenzo@gmail.com
-oQ8@@@k    .`!|(ch0XrrLwJ(]I~|]I`  `i-{]}(C*      Portfolio: vip-pana.github.io
+@hd@@@%?^`'.   ;"^",^`,:,"II;^  .^!rQUzzX0oo%      Mail:      v.panacciulli@pm.me
+oQ8@@@k    .`!|(ch0XrrLwJ(]I~|]I`  `i-{]}(C*       Portfolio: vip-pana.github.io
 o0M@@@p.`"l?r0c{|uz0pU1{?>` `>jU(~lIIl!;l-n8
 zC*@@@k:~}fZoJ?^,i?)()?>I,,^^`ltO|_llI:;i_/8    GitHub Stats
 /uQMM@8i>?(QYYU0wmCucx)rruxzJpU_\>:::;:;>~1o      (auto-updated below)
